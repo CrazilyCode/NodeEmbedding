@@ -1,0 +1,30 @@
+IEEE Transactions on Parallel and Distributed Systems	1
+Journal of Parallel and Distributed Computing	1
+Future Generation Computer Systems	1
+The Journal of Supercomputing	1
+ACM SIGMETRICS Performance Evaluation Review	1
+Theoretical Computer Science	2
+Information Processing Letters	2
+SIAM Journal on Computing	2
+Information and Computation	2
+Journal of Computer and System Sciences	2
+IEEE Journal on Selected Areas in Communications	3
+IEEE Transactions on Wireless Communications	3
+Computer Communications	3
+IEEE Communications Magazine	3
+IEEE/ACM Transactions on Networking (TON)	3
+IEEE Transactions on Visualization and Computer Graphics	4
+IEEE Computer Graphics and Applications	4
+Computer Aided Geometric Design	4
+ACM Transactions on Graphics (TOG)	4
+Computer Graphics Forum	4
+IEEE Transactions on Knowledge and Data Engineering	5
+Information Systems	5
+Knowledge and Information Systems	5
+Web Semantics: Science, Services and Agents on the World Wide Web	5
+ACM Transactions on Intelligent Systems and Technology (TIST)	5
+Pattern Recognition Letters	6
+Pattern Recognition	6
+IEEE Transactions on Image Processing	6
+IEEE Transactions on Pattern Analysis and Machine Intelligence	6
+Computer Vision and Image Understanding	6

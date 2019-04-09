@@ -1,0 +1,3 @@
+parents	0
+spouse	1
+children	2

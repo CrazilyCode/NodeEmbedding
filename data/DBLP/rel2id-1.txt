@@ -1,0 +1,10 @@
+paper_author0	0
+paper_author1	1
+paper_author2	2
+paper_author3	3
+paper_author4	4
+paper_author5	5
+paper_author6	6
+paper_author7	7
+paper_author8	8
+paper_author9	9
